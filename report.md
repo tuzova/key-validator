@@ -7,8 +7,8 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/tuzova/ccn-validator/issues/4#issue-940026184
-* https://github.com/tuzova/ccn-validator/issues/3#issue-940025530
+* https://github.com/tuzova/key-validator/issues/1#issue-940067262
+* https://github.com/tuzova/key-validator/issues/2#issue-940068924
 
 ## Описание процесса тестирования
 
