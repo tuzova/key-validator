@@ -12,10 +12,6 @@
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты:
-* [Программа KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class)
-* [Руководство по использованию KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
-
 В качестве источника тестовых данных использовались ключи для проверки из [Руководства по использованию KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 * Валидные ключи:
